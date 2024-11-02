@@ -12,3 +12,6 @@ En el fichero MYSQL.sh lo que haremos sera automatizar todo el proceso de instal
 En el fichero Apache.sh lo que haremos sera instalar apache, php, git y el cliente de MySQL, hacer una copia del fichero por defecto, editarlo y hablitarlo, clonar el respositorio que se nos proporciona, editar el fichero config.php e importar la base de datos. Lo editaremos de la misma forma que en la imagen.
 ![image](https://github.com/user-attachments/assets/52f1aa67-8829-43a8-9b8d-de7b37b9b02b)
 
+##Sitio web
+Aqui podemos apreciar que hemos hecho todo lo anterior bien y al poner en el buscardor http://localhost:8080/ nos aparece nuestra pagina web de la base de datos.
+![image](https://github.com/user-attachments/assets/29296a57-1152-4d7c-8125-a43a694d5ba6)
